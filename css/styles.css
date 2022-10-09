@@ -12039,7 +12039,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 1rem;
   background: linear-gradient(
     to bottom,
     #000 0%,
@@ -12150,3 +12150,20 @@ body {
 }
 
 /* tarjetas andrés */
+
+.foto-xavi {
+  margin-bottom: 4rem;
+  border-radius: 50%;
+}
+
+.mis-redes {
+  margin-top: 0;
+  background-color: #000;
+  height: 1.5rem;
+  width: 100%;
+  position: absolute;
+}
+
+.pricing-header {
+  max-width: 700px;
+}

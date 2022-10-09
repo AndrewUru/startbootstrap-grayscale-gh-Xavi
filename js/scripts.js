@@ -49,5 +49,3 @@ window.addEventListener("DOMContentLoaded", (event) => {
     });
   });
 });
-
-//slides de tarjetas
